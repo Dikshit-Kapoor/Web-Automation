@@ -14,3 +14,5 @@ ie.navigate("https://accounts.google.com/signin/v2/identifier?continue=https%3A%
 page = ie.Document 
 
 links = page.links
+#you can also use selenium for web automation.
+#if you are using chrome then download chrome driver .
